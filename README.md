@@ -1,4 +1,5 @@
-[![apm](https://img.shields.io/apm/l/tree-view-search-bar.svg?style=flat-square)](https://atom.io/packages/tree-view-search-bar)
+##### Atom and all repositories under Atom will be archived on December 15, 2022. Learn more in our [official announcement](https://github.blog/2022-06-08-sunsetting-atom/)
+ [![apm](https://img.shields.io/apm/l/tree-view-search-bar.svg?style=flat-square)](https://atom.io/packages/tree-view-search-bar)
 [![apm](https://img.shields.io/apm/v/tree-view-search-bar.svg?style=flat-square)](https://atom.io/packages/tree-view-search-bar)
 [![apm](https://img.shields.io/apm/dm/tree-view-search-bar.svg?style=flat-square)](https://atom.io/packages/tree-view-search-bar)
 
